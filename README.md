@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaridoDEV
 - 💻 I’m interested in Programming, Game Devoloping.
-- 🌱 I’m currently learning Python/C++ and soon also C# (No Projects will be Released until i say).
+- 🌱 I’m currently C# (No Projects will be Released until i say).
 - ✨ I’m looking to collaborate 強力な Kyōryokuna.
 - 📗 Pronouns: Actually He/him but Wis/dom
 - ⚡ Fun fact: Learning is the key and giving up is already losing.
