@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python/C++ and soon also C# (No Projects will be Released until i say).
 - ✨ I’m looking to collaborate 強力な Kyōryokuna.
 - 📗 Pronouns: Actually He/him but Wis/dom
-- ⚡ Fun fact: Learning is they key and being Jealous....There won´t be a Path for them.
+- ⚡ Fun fact: Learning is they key and giving up is already losing.
 
 <!---
 KaridoDEV/KaridoDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
